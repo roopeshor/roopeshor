@@ -1,4 +1,5 @@
 - Geek | Electronics student
+- Might get obsessed with optimising and organising things beyond what is required and end up learning nuances of the language/ecosystem.
 <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,matlab,py,bash,dart,html,css,js,ts,regex" />
 
