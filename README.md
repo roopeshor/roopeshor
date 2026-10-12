@@ -5,7 +5,7 @@
 
 <h3>Tools</h3>
 <span><img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,nodejs,linux,vscode,arduino,androidstudio" />
-  <span><img src="https://roopeshor.github.io/assets/inkscape.svg" height="45px"/></span>
+  <span><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="45px"/></span>
 </span>
 
 <span><img src="https://roopeshor.github.io/assets/ltspice.png" height="40px"/></span>
