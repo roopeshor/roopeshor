@@ -1,10 +1,10 @@
 - Geek | Electronics student
 - Might get obsessed with optimising and organising things beyond what is required and end up learning nuances of the language/ecosystem.
 <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,matlab,py,bash,dart,html,css,js,ts,regex" />
+    <img src="https://skillicons.dev/icons?i=cpp,matlab,py,bash,dart,html,css,js,ts,regex,julia" />
 
 <h3>Tools</h3>
-<span><img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,nodejs,linux,vscode,arduino,androidstudio,julia" />
+<span><img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,nodejs,linux,vscode,arduino,androidstudio" />
   <span><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="45px"/></span>
 </span>
 
