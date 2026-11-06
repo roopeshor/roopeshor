@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,matlab,py,bash,dart,html,css,js,ts,regex" />
 
 <h3>Tools</h3>
-<span><img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,nodejs,linux,vscode,arduino,androidstudio" />
+<span><img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,nodejs,linux,vscode,arduino,androidstudio,julia" />
   <span><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="45px"/></span>
 </span>
 
